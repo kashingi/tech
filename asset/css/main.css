@@ -1,0 +1,25 @@
+/* ==========================
+   [01]. Navbar
+========================== */
+
+.navbar {
+    background: skyblue !important;
+    padding: 2px;
+    border-radius: 15px;
+}
+
+.navbar .nav-item {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 1px;
+}
+
+.navbar .nav-item .nav-link {
+    color: #7d8792;
+}
+
+.navbar .nav-item .nav-link:hover {
+    color: #ffffff;
+    background: blueviolet;
+    border-radius: 5px;
+}
